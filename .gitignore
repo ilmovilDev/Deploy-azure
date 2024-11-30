@@ -1,0 +1,9 @@
+# actualizar por el nombre de su entorno virtual
+venv/
+
+.env
+
+__pycache__/
+*.py[cod]
+
+.pytest_cache/
